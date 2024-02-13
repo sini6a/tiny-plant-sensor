@@ -1,4 +1,4 @@
-# Tiny Plant Sensor
+# Tiny Plant Sensor 🌱
 
 ![screenshot #1](screenshots/tiny-plant-sensor.png)
 ![screenshot #2](screenshots/tiny-plant-sensor-2.png)
