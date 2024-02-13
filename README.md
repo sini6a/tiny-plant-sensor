@@ -15,7 +15,7 @@ The Tiny Plant Sensor 🌱 is a low-power sensor designed around the Attiny85 mi
 
 ## Operation
 
-The sensor operates by periodically waking up every 6 seconds to check the plant's capacitance level, determining if watering is necessary. If the plant requires watering, the sensor activates a blinking LED every second. Otherwise, it remains in a low-power state.
+The sensor operates by periodically waking up to check the plant's capacitance level, determining if watering is necessary. If the plant requires watering, the sensor activates a blinking LED every second. Otherwise, it remains in a low-power state.
 
 ## Usage
 
