@@ -3,7 +3,7 @@
 ![screenshot #1](screenshots/tiny-plant-sensor.png)
 ![screenshot #2](screenshots/tiny-plant-sensor-2.png)
 
-The Tiny Plant Sensor is a low-power sensor designed around the Attiny85 microcontroller and powered by a CR2032 coin cell battery. This sensor is designed to monitor the moisture level of a plant and provide a visual indication when watering is required.
+The Tiny Plant Sensor 🌱 is a low-power sensor designed around the Attiny85 microcontroller and powered by a CR2032 coin cell battery. This sensor is designed to monitor the moisture level of a plant and provide a visual indication when watering is required.
 
 ## Features
 
