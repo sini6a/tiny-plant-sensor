@@ -1,0 +1,63 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.8*%
+%TF.CreationDate,2024-02-12T20:34:51+01:00*%
+%TF.ProjectId,tiny-plant-sensor,74696e79-2d70-46c6-916e-742d73656e73,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.8) date 2024-02-12 20:34:51*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 Aperture macros list*
+%AMRotRect*
+0 Rectangle, with rotation*
+0 The origin of the aperture is its center*
+0 $1 length*
+0 $2 width*
+0 $3 Rotation angle, in degrees counterclockwise*
+0 Add horizontal line*
+21,1,$1,$2,0,0,$3*%
+G04 Aperture macros list end*
+%ADD10R,1.800000X1.800000*%
+%ADD11C,1.800000*%
+%ADD12R,1.600000X1.600000*%
+%ADD13O,1.600000X1.600000*%
+%ADD14C,1.400000*%
+%ADD15O,1.400000X1.400000*%
+%ADD16RotRect,3.000000X3.000000X45.000000*%
+%ADD17C,3.000000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,D101*%
+X111275000Y-61000000D03*
+D11*
+X108735000Y-61000000D03*
+%TD*%
+D12*
+%TO.C,U101*%
+X96877338Y-67940937D03*
+D13*
+X99417338Y-67940937D03*
+X101957338Y-67940937D03*
+X104497338Y-67940937D03*
+X104497338Y-60320937D03*
+X101957338Y-60320937D03*
+X99417338Y-60320937D03*
+X96877338Y-60320937D03*
+%TD*%
+D14*
+%TO.C,R101*%
+X101948413Y-71073331D03*
+D15*
+X96868413Y-71073331D03*
+%TD*%
+D16*
+%TO.C,BT101*%
+X90764609Y-57235390D03*
+D17*
+X105253227Y-42746772D03*
+%TD*%
+M02*
